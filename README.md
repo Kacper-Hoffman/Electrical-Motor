@@ -64,7 +64,7 @@ Po narysowaniu silnika możliwe jest wykonanie symulacji. Tutaj w tym celu zasto
 
 ![Compare Current](https://github.com/Kacper-Hoffman/Electrical-Motor/blob/main/results_compare_Un33A.png)
 
-Uzyskane wyniki symulacji są zgodne z teoretycznymi założeniami. Pełny opis użytego kodu z Octave oraz szczegóły obliczeń dostępne są z ![moim projekcie](https://github.com/Kacper-Hoffman/Electrical-Motor/blob/main/Kacper%20Hoffman%20-%20FEMM%20Projekt.pdf).
+Uzyskane wyniki symulacji są zgodne z teoretycznymi założeniami. Pełny opis użytego kodu z Octave oraz szczegóły obliczeń dostępne są z [moim projekcie](https://github.com/Kacper-Hoffman/Electrical-Motor/blob/main/Kacper%20Hoffman%20-%20FEMM%20Projekt.pdf).
 
 ---
 # Three phase squirrel-cage motor model - FEMM 🇬🇧
@@ -133,4 +133,4 @@ After drawing the motor we can begin the simulation. Here we also use the Octave
 
 ![Compare Current](https://github.com/Kacper-Hoffman/Electrical-Motor/blob/main/results_compare_Un33A.png)
 
-These results are comparable to theoretical values. Full description of the used code and details of calculations are available in ![my project (🇵🇱 only)](https://github.com/Kacper-Hoffman/Electrical-Motor/blob/main/Kacper%20Hoffman%20-%20FEMM%20Projekt.pdf).
+These results are comparable to theoretical values. Full description of the used code and details of calculations are available in [my project (🇵🇱 only)](https://github.com/Kacper-Hoffman/Electrical-Motor/blob/main/Kacper%20Hoffman%20-%20FEMM%20Projekt.pdf).
